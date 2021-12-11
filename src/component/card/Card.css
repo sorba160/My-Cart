@@ -1,0 +1,34 @@
+
+    
+
+@media only screen and (max-width:670px) {
+    .display{
+        width: 1vw;
+        background-size: contain;
+        background-color: white;
+        box-shadow: none;
+        padding: 0;
+        
+    }
+    .justify-content-between{
+        margin: 0;
+        text-align: center;
+    }
+    .container{ width:180%;
+    
+    background-size: cover;
+    
+ }
+
+
+@media (max-width: 767.98px) {  }
+
+
+@media (max-width: 991.98px) { }
+
+
+@media (max-width: 1199.98px) { }
+
+
+@media (max-width: 1399.98px) {  }
+}

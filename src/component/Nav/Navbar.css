@@ -1,0 +1,14 @@
+.subnav{
+    text-align: center;
+    
+} 
+@media only screen and (max-width:1120px) {
+    .navbar{
+       width: 120%;
+    }
+}
+@media only screen and (max-width:824) {
+    .navbar{
+        width: 50%;
+     }
+}
