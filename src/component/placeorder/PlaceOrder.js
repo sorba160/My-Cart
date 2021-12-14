@@ -58,7 +58,7 @@ function PlaceOrder() {
                         </tbody>
                     </table>
                     <button onClick={()=>setModal(modal="block")} type="button" className="btn btn-danger btn-lg" style={{ marginTop: "-20px" }}>Place Order</button>
-                    <p id="modalWarning" style={{ textAlign: "right", display:modal,margin:0 }}>no items have selected  </p>
+                    <p id="modalWarning" style={{ textAlign: "right", display:modal,marginBottom:"30px",fontSize:"25px",color:"tomato" }}>no items have selected  </p>
                 </div>
             </div>
         </div >
